@@ -1,0 +1,31 @@
+h1{
+	color: red;
+	font-family: Palatino, serif;
+}
+
+ul{
+	border: 5px solid black;
+	color: Chocolate;
+}
+
+ol{
+	/*rgb(2e, 69, a3)*/
+	color: #2e69a3; 
+	padding: 100px;
+}
+.thirdItem{
+	color: yellow;
+}
+
+.background{
+	font-size: 100px;
+	background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");");
+}
+
+a{
+	font-size: 60px;
+}
+
+#anchor1{
+	font-size: 5px;
+}
